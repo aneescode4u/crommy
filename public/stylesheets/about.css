@@ -1,0 +1,63 @@
+.secondary{
+    height:350px;
+}
+
+     
+       .secondary{ 
+       background-image:url("/images/abt.jpg");
+       background-position:left center;
+       background-repeat: no-repeat;
+       padding-top:60px;
+       padding-left:50px;
+       background-size: cover;
+
+     }
+
+
+        .contenttestclass{
+        padding-left:50px;
+        padding-top:60px;
+        color:white;
+      } 
+
+
+.check{
+    font-family:sans-serif;
+    color:#131b4d;
+    position:relative;
+    }
+.check p{
+    font-size: medium;
+    text-align: justify;
+}
+
+.check2{
+    width:100%;
+    height:250px;
+    background-image:linear-gradient(to bottom right,#03bfff,#036eff);
+    color:#fff;
+    border-radius: 10px;
+    margin-top: 60px;
+    padding-top: 30px;
+    text-align:center; 
+    font-family: "Helvetica Neue";
+      margin-bottom:40px;
+      padding-bottom:60px;
+    
+    
+}    
+
+   .GRID2{
+      display:grid;
+      margin-top:60px;
+      padding-left:50px;
+   }
+      
+ 
+.new{    color: #131b4d;
+padding-top:100px;
+margin-left:5 0px;
+}
+.newa{margin-left:50px;
+}
+   

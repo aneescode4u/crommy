@@ -1,0 +1,38 @@
+body{
+  background: url(https://images.unsplash.com/photo-1479839672679-a46483c0e7c8?ixlib=rb-1.2.1&auto=format&fit=crop&w=1554&q=80);
+
+  
+}
+.detailsa{
+  float :left;
+    width: 40%;
+	vertical-align: bottom;
+	color: #fff;
+	padding-left: 60px;
+	padding-top:60px;
+	font-size: 15px;
+	line-height: 25px;
+  
+  
+}
+
+.frame {
+  float: right;
+  padding-top:60px;
+  width: 60%;
+  height: 300px; /* only for demonstration, should be removed */
+}
+
+/* Changes position of caption */
+.carousel-captionnew {
+    top: 30%;
+    bottom: auto;
+    font-family: 'Lato';
+}
+.new{    color:#1D649B;
+padding-top:100px;
+padding-left:50px;
+}
+.featurette-heading{color: #1D649B}
+
+
